@@ -1,0 +1,5 @@
+dropbox_auth: ''
+temp_dir_name: 'temp_files'
+bucket_name: 'wadfesfesaf'
+path: '/photos'
+delay:  5
